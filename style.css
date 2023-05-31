@@ -10,7 +10,7 @@ img{
 }
 h1 {
     font-size:e3m;
-    letter-spacing: .1em;
+    letter-spacing: .05em;
     padding-top: 1em;
     padding-bottom: em;
 }
@@ -22,7 +22,7 @@ h2 {
 
 h3 {
     font-size: 1em;
-    padding-bottom: 1em;
+    padding-bottom: em;
 }
 
 h4{
